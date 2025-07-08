@@ -1,0 +1,29 @@
+# Dependências
+node_modules/
+
+# Ambiente
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de build
+dist/
+build/
+
+# Cache
+.cache/
+.nyc_output/
+
+# Teste
+coverage/
+
+# Configurações do editor/IDE
+.vscode/
+.idea/
+
+# SO específico
+.DS_Store
+Thumbs.db
